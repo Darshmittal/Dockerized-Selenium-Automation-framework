@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-26T23:24:47 IST" name="Surefire suite" finished-at="2025-02-26T23:24:49 IST" duration-ms="2016">
+    <groups>
+    </groups>
+    <test started-at="2025-02-26T23:24:47 IST" name="Surefire test" finished-at="2025-02-26T23:24:49 IST" duration-ms="2016">
+      <class name="com.selenium.TestGoogle">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.TestGoogle@1700915]" started-at="2025-02-26T23:24:47 IST" name="setup" finished-at="2025-02-26T23:24:48 IST" duration-ms="1121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGoogleTitle()[pri:0, instance:com.selenium.TestGoogle@1700915]" started-at="2025-02-26T23:24:48 IST" name="testGoogleTitle" finished-at="2025-02-26T23:24:49 IST" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.TestGoogle@1700915]" started-at="2025-02-26T23:24:49 IST" name="teardown" finished-at="2025-02-26T23:24:49 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.selenium.TestGoogle -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
